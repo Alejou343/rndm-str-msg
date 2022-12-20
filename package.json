@@ -1,0 +1,27 @@
+{
+  "name": "rndm-str-msg",
+  "version": "1.0.0",
+  "description": "String aleatorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejou343/rndm-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Alejou343 <alejandro.auribe1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alejou343/rndm-str-msg/issues"
+  },
+  "homepage": "https://github.com/Alejou343/rndm-str-msg#readme",
+  "bin": {
+    "rndm-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
